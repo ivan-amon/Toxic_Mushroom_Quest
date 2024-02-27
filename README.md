@@ -9,6 +9,7 @@ la estética y se han añadido objetos por el mapa que son, la vida extra, las 3
 - **Estética Retro:** El juego tiene una estética de los años 80, con colores vibrantes y gráficos estilo ASCII.
 - **Mecánica de Movimiento:** Puedes moverte por el mapa en dos dimensiones, tanto en columnas como en filas, utilizando un dado de movimiento.
 - **Dificultad Ajustable:** Puedes elegir entre dos niveles de dificultad: NOOB y PRO. En NOOB, puedes moverte hasta el valor del dado en columnas y filas, mientras que en PRO debes moverte exactamente la cantidad indicada por el dado.
+- - **Objetos con los que puedes interaccionar:** En funcion de que objeto sea ocurrira una cosa u otra
 
 ## Requisitos
 - Se recomienda tener instalada la aplicación de la terminal de Windows para que se carguen correctamente los iconos y colores del juego.
