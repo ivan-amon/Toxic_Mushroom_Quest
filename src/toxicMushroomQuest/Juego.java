@@ -449,6 +449,9 @@ public class Juego {
 		System.out.println();
 		System.out.printf("%s2) OBJETOS DEL JUEGO:%s", green, resetColor);
 		System.out.println(" En el mapa del juego apareceran una serie de objetos: "); 
+	    	System.out.println();
+	    	System.out.println("   - JUGADOR J: (representado por 'J') debes moverlo por el mapa, para recolectar");
+		System.out.println("     las 3 llaves, para finalmente salir por el portal. (SIEMPRE EVITANDO LOS HONGOS).");
 		System.out.println();
 		System.out.println("   - HONGOS Ø: Debes evitar los hongos (representados por 'Ø') que acechan en");
 		System.out.println("     el mapa, ya que te envenenarán y reducirán tu salud ¡OJO: se hacen invisibles!.");
@@ -456,7 +459,7 @@ public class Juego {
 		System.out.println("   - LLAVES X: Encuentra las tres llaves místicas (representadas por 'X') esparcidas");
 		System.out.println("     por el mapa para desbloquear el portal interdimensional de salida.");
 		System.out.println();
-		System.out.println("   - VIDA EXTRA +: Añade un punto de vida mas (representada po '+') ¡CUIDADO: ");
+		System.out.println("   - VIDA EXTRA +: Añade un punto de vida mas (representada por '+') ¡CUIDADO: ");
 		System.out.println("     Despues de jugar 10 turnos, esta desaparecerá!.");
 		System.out.println();
 		System.out.println("   - PORTAL █: (representado por '█') aparecerá solo cuando tengas las tres llaves.");
