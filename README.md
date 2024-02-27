@@ -13,7 +13,7 @@ El juego ha heredado algunas mecánicas del juego propuesto "HOLOCAUSTO HADRON" 
 - Se recomienda tener instalada la aplicación de la terminal de Windows para que se carguen correctamente los iconos y colores del juego.
 
 ## Cómo Jugar
-1. Descarga el juego y ejecútalo en la terminal de Windows.
+1. Descarga el juego y ejecútalo en la terminal de Windows. (\bin> java toxicMushroomQuest.Principal) 
 2. Selecciona la dificultad deseada: NOOB o PRO.
 3. Utiliza el dado de movimiento para moverte por el mapa.
 4. Evita los hongos venenosos, recolecta las llaves y encuentra el portal para escapar.
